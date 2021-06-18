@@ -1,6 +1,6 @@
 #ifndef FACE_DETECTOR_H
 #define FACE_DETECTOR_H
-
+//
 #include <vector>
 
 #include "face_embedder.h"
