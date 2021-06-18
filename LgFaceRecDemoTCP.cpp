@@ -34,7 +34,7 @@
 #endif // SPLIT_FACE_DECTOR
 
 //#define EXCLUDE_RECOGNIZE_FACE true
-#define MAX_THREAD_NUM  2
+#define MAX_THREAD_NUM  1
 
 #ifndef SPLIT_IMAGE_HANDLER
 // create high performace jetson camera - loads the image directly to gpu memory or shared memory
